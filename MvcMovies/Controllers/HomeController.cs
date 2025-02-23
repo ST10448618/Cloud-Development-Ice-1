@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MvcMovies.Models;
+using System.Diagnostics;
 
 namespace MvcMovies.Controllers;
 
